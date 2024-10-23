@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.frequantite{
+    font-family: "Open Sans", sans-serif;
+    // position: relative;
+
+    h3{
+        color: #43121d;
+    }
+    .fed{
+        h4{
+            color: #43121d;
+        }
+        p{
+            color: #555;
+            letter-spacing: 1px;
+        }
+    }
+    .box{
+        position: relative;
+        .overlay{
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: -1;
+            background-color: rgba($color: #000000, $alpha: 0.95);
+         }
+        .row-last{
+             background-image: url('./imgs/row-last.jpg');
+             background-position: center;
+             background-size: cover;
+             position: relative;
+             h4{
+                color: #fff;
+             }
+           
+        }
+
+    }
+    .forms-1{
+        h1{
+            color: #43121d;
+            font-weight: bold;
+        }
+        span{
+            color: #43121d;
+            font-weight: bold;
+        }
+        p{
+            color: #555;
+        }
+    }
+
+
+
+
+}

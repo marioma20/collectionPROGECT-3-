@@ -1,0 +1,15 @@
+.part-container {
+  background-color: #a82d49;
+  color: #fff;
+  padding: 20px;
+}
+.part-container .info {
+  padding: 10px;
+}
+
+@media (max-width: 767px) {
+  .part-container .info {
+    margin: 10px 0;
+    border-bottom: 1px solid #555;
+  }
+}/*# sourceMappingURL=partcontainer.css.map */

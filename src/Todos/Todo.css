@@ -1,0 +1,38 @@
+
+.container{
+    border: 1px solid #444;
+    margin: 50px 30px;
+}
+
+.container .addto{
+    padding: 10px;
+}
+.container .addto input{
+    width: 70%;
+    margin-right: 10px;
+    padding: 5px;
+}
+.container .addto button{
+    width: 20%;
+    padding: 5px;
+}
+.container .addto button:hover{
+    background-color: orangered;
+    color: white;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+ ul li{
+    list-style: "🤚";
+    cursor: pointer;
+}
+.done{
+    text-decoration: line-through;
+}
+.content span{
+    cursor: pointer;
+}

@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.frequantite {
+  font-family: "Open Sans", sans-serif;
+}
+.frequantite h3 {
+  color: #43121d;
+}
+.frequantite .fed h4 {
+  color: #43121d;
+}
+.frequantite .fed p {
+  color: #555;
+  letter-spacing: 1px;
+}
+.frequantite .box {
+  position: relative;
+}
+.frequantite .box .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  background-color: rgba(0, 0, 0, 0.95);
+}
+.frequantite .box .row-last {
+  background-image: url("./imgs/row-last.jpg");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.frequantite .box .row-last h4 {
+  color: #fff;
+}
+.frequantite .forms-1 h1 {
+  color: #43121d;
+  font-weight: bold;
+}
+.frequantite .forms-1 span {
+  color: #43121d;
+  font-weight: bold;
+}
+.frequantite .forms-1 p {
+  color: #555;
+}/*# sourceMappingURL=Frequantite.css.map */

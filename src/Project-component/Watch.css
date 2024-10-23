@@ -1,0 +1,16 @@
+.Watch {
+  background-image: url("./imgs/1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.Watch h1 {
+  color: #a82d49;
+}
+.Watch p {
+  color: #555;
+}
+.Watch a {
+  text-decoration: none;
+  color: #43121d;
+  font-weight: bold;
+}/*# sourceMappingURL=Watch.css.map */

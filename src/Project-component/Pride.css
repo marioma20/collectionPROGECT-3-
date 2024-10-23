@@ -1,0 +1,19 @@
+.pride {
+  padding: 50px 0;
+  letter-spacing: 1px;
+}
+.pride .img {
+  border-radius: 10px;
+}
+.pride h3 {
+  color: #43121d;
+}
+.pride p {
+  color: #555;
+  line-height: 30px;
+}
+.pride button:hover {
+  background-color: transparent !important;
+  border: 2px solid #a82d49;
+  color: #a82d49;
+}/*# sourceMappingURL=Pride.css.map */

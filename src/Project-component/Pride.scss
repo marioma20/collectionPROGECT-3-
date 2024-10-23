@@ -1,0 +1,23 @@
+
+.pride{
+    padding: 50px 0;
+    .img{
+        border-radius: 10px;
+    }
+    letter-spacing: 1px;
+    h3{   
+        color: #43121d;
+    }
+    p{
+       color: #555;
+       line-height: 30px;
+    }
+    button{
+        &:hover{
+            background-color: transparent !important;
+            border: 2px solid #a82d49;
+            color: #a82d49;
+        }
+    }
+    
+}
